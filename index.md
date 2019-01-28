@@ -5,6 +5,7 @@ Data Scientist based in San Diego.
 ### Projects
 
 #### [Project Name]
+Description
 
 ### Contact
 - [Email](mailto:sshilpa1187@gmail.com)
