@@ -1,6 +1,6 @@
 ### Data Scientist
 
-Data Scientist based in San Diego. Enthusiatic about creating, building, analysing and cooking.
+Data Scientist based in San Diego. Enthusiastic about creating, building, analysing and cooking.
 
 
 #### How reliable are Yelp restaurant reviews?
